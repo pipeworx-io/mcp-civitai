@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-civitai",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Civitai MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-cbd35c6d02d5c22a80f9e0568bd231d2be364b20a6412b3982a2c773a6809697",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-a55851b4f139ae2e952b06b9f21e680fbac91a31234e799b9175207f258bf737",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
