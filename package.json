@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-civitai",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Civitai MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "civitai",
     "gatewaySlug": "civitai",
-    "sourceHash": "v1-a7aae3acbd295120fcd23b26ce30753412b5620fabea8174256d0c0bc4c3c755",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-139d9ec9fc37092acea1525e0e76f2cc5921111e433d00ab388b3db8ae7e622f",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
